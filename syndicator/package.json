@@ -1,0 +1,26 @@
+{
+  "name": "syndicator",
+  "version": "1.0.0",
+  "description": "Grabs data from the database and posts to various applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/babel index.js ./api -d ./dst"
+  },
+  "author": "Brian Kim",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "dateformat": "^3.0.3",
+    "form-data": "^2.3.2",
+    "mysql": "^2.15.0",
+    "node-fetch": "^2.1.2",
+    "node-pinterest": "^0.0.4",
+    "oauth-1.0a": "^2.2.4",
+    "qs": "^6.5.1",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
