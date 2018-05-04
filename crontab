@@ -1,1 +1,1 @@
-* * * * *  node ~/Documents/classes/programming/pulsd/syndicator/dst/ 2>&1 ~/Documents/classes/programming/pulsd/cronlog
+*/5 * * * * /usr/local/bin/node ~/pulsd/syndicator/dst/index.js
