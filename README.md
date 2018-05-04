@@ -2,7 +2,7 @@
 
 ---
 
-**[DEMO](http://briankim.us/pulsd/)**
+**[Click here for a DEMO](http://briankim.us/pulsd/)**
 
 ## Development Environment Package
 
