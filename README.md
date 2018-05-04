@@ -129,3 +129,5 @@ A `posted` flag is attached onto the event to indicate whether it has been poste
 *   Show image preview for file input
 *   Refactor code (Remove logging statements, use more loops)
 *   Time zones are assumed to be in EST
+*   You need to be logged in to see EventBrite pages (Redirects to my events)
+*   Better logging and error messages
